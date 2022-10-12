@@ -5,6 +5,10 @@
     font-family: Roboto, 'sans-serif';
 }
 
+main{
+    background-color: #fff;
+}
+
 .container{
     width: 90%;
     max-width: 1233px;
